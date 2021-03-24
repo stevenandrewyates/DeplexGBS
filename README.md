@@ -2,7 +2,7 @@
 
 A method for deplexing genotyping-by-sequencing data using the Euler computing system at ETH Zurich (http://scicomp.ethz.ch/wiki/Euler)
 
-# Usage:
+# Usage
 
 Best to run this interactively, using a terminal! Login to Euler, then copy the data to a scratch folder. This can be found using
 
@@ -85,4 +85,4 @@ Now let's suppose you have multiple files. Meaning multiple runs of the same lib
 zcat RUN2.data.fastq.gz >> GBSdata.fastq
 ```
 
-Please note the ">>" is used to append the data "RUN2.data.fastq.gz" to an existing file "GBSdata.fastq" if the file doesn't exist it will create it  also note that if you do this multiple times you will multiply the data
+Please note the ">>" is used to append the data "RUN2.data.fastq.gz" to an existing file "GBSdata.fastq". If the file doesn't exist it will create it. Also note that if you do this multiple times you will multiply the data
