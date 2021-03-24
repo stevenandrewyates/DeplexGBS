@@ -12,7 +12,7 @@ echo $SCRATCH
 
 Perhaps something is not working? Please see at the bottom for some trouble shooting.
 
-first login to Euler, using putty or ssh (for linux). If you are unsure please read this https://scicomp.ethz.ch/wiki/Euler.
+First login to Euler, using putty or ssh (for linux). If you are unsure please read this https://scicomp.ethz.ch/wiki/Euler.
 
 Now navigate to the folder in your scratch
 
@@ -52,7 +52,7 @@ Next download this repository (it has the barcodes)
 git clone https://github.com/stevenandrewyates/DeplexGBS
 ```
 
-One last thing before deplexing, you need a folder to store it in. In this example (an in reality), let's call it DEPLEX
+One last thing before deplexing, you need a folder to store it in. In this example (and in reality), let's call it DEPLEX
 
 ```
 mkdir DEPLEX
