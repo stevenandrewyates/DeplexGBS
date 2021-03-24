@@ -1,10 +1,8 @@
 # DeplexGBS
 
-#Description:
-
 A method for deplexing genotyping-by-sequencing data using the Euler computing system at ETH Zurich (http://scicomp.ethz.ch/wiki/Euler)
 
-#Usage:
+# Usage:
 
 Best to run this interactively, using a terminal! Login to Euler, then copy the data to a scratch folder. This can be found using
 
